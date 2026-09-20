@@ -1,5 +1,5 @@
-let humanScore = 0;
-let computerScore = 0;
+const humanScore = 0;
+const computerScore = 0;
 
 function getComputerChoice() {
     options = Math.random();
